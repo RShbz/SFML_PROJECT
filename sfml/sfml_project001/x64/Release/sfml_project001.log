@@ -1,0 +1,3 @@
+﻿  Game.cpp
+  sfml_project001.cpp
+C:\Users\remzisahbaz\source\repos\RShbz\Cpulsplus_Apps\sfml\sfml_project001\sfml_project001.cpp(11,17): error C2228: left of '.running' must have class/struct/union
